@@ -11,10 +11,49 @@ It must not turn on individually
 5 outputs, 5 leds
 10 segment led
 
-Direct connection (Quad 7-Segment style)
+
+Direct connection (Quad 7-Segment style) (Connection: Common Cathode)	NO!
 10 pins for led
 5 pins for each package
-15 pins total (NO!)
+15 pins total
 
 
+Custom Decoder (./led_bar_encoder.lfcn) (Connection: Common Cathode)
+4 pins for led bar
+5 pins for each package
+9 pins total
 
+
+2-in-1 Custom Decoder (Connection: Common Cathode)
+4 pins for led bar
+3 pins for package selection
+7 pins total
+
+
+Decoder (Connection: S Style)
+3:8 decoder
+4 pins for led bar
+5 pins for package selection
+9 pins total
+
+
+2 Decoders (Connection: S Style)
+3:8 decoder
+4 pins for led bar
+3 pins for package selection
+7 pins total
+
+
+Grove LED Bar v2.0 Package
+10 pins (2 pins each package)
+
+
+LM391X Bar Graph Driver (Connection: Common Anode)
+1 analog pin for bar height
+5 digital pins for package selection
+
+
+LM391X Bar Graph Driver + decoder (Connection: Common Anode)	BEST ONE SO FAR!
+3:8 decoder
+1 analog pin for bar height
+3 pins for package selection

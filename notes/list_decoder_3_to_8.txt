@@ -1,0 +1,13 @@
+3-to-8 Line Decoder List
+
+line to line
+74x141	driver
+74x145	driver
+74x238	driver	active high
+74x138
+
+
+Bcd to decimal
+74x45	driver
+74x41	driver
+74x42
