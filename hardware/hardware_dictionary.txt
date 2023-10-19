@@ -1,3 +1,10 @@
 ACS712			Current Sensor
-SRD-05VDC-SL-C		Power Switch
+
 PZEM-004T		Energy Monitor
+
+ZMPT101B		Current and Voltage Transformer
+ZMCT103C		Current and Voltage Transformer
+
+
+SSR-10DA		Power Switch (Prefered)
+SRD-05VDC-SL-C		Power Switch
