@@ -1,7 +1,7 @@
 Analog (6 Pins)
-A0	LCD Display
-A1	LCD Display
-A2	
+A0	LCD Display			1
+A1	LCD Display			1
+A2	LED Bar Height			2
 A3	
 A4	
 A5	
@@ -9,18 +9,18 @@ A5
 Digital (14 Pins, 12 Pins Usable)
 0	TX Reserved
 1	RX Reserved
-2	
+2	Power Unit On/OFF Switcher	4
 ~3	
 4	
 ~5	
 ~6	
 7	
-8	
+8	Multiplexer Selector		3
 ~9	
 ~10	
 ~11	
-12	
-13	
+12	Multiplexer Selector		3
+13	Multiplexer Selector		3
 
 
 

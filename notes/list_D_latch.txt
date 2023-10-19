@@ -1,0 +1,10 @@
+D-Latch IC's List
+
+74x373	Enabler
+74x374	Rising-edge
+
+74x573	Enabler
+74x574	Rising-edge
+
+
+
