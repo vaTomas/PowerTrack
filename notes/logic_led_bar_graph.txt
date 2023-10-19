@@ -1,0 +1,20 @@
+Arduino pins
+12 digital
+6 analog
+
+Lower led will always be on
+|||||
+||||||
+||
+It must not turn on individually
+
+5 outputs, 5 leds
+10 segment led
+
+Direct connection (Quad 7-Segment style)
+10 pins for led
+5 pins for each package
+15 pins total (NO!)
+
+
+

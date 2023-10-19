@@ -1,0 +1,8 @@
+Power outlet must be persistently on
+
+
+Direct Line - 5 pins
+
+Multiplexing - 3 pins
+not always on because 1 is on at a time
+
