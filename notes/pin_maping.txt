@@ -2,8 +2,8 @@ Analog (6 Pins)
 A0	LCD Display			1
 A1	LCD Display			1
 A2	LED Bar Height			2
-A3	
-A4	
+A3	Voltage Sampler			5
+A4	Current Sampler			5
 A5	
 
 Digital (14 Pins, 12 Pins Usable)
