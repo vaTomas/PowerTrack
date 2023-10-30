@@ -1,0 +1,6 @@
+F=10/(2piRC)
+
+Low Pass Filter
+C = 1uF
+R = 3.3kΩ
+F = 480Hz (Pin 9)
