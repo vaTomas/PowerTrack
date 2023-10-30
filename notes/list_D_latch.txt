@@ -7,4 +7,13 @@ D-Latch IC's List
 74x574	Rising-edge
 
 
+SIngle D-Latch IC's List
+74x1G74		SMD
+74x1G79
+74x1G80
+74x1G175
+74x1G373
+74x1G374
+
+
 
