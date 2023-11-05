@@ -16,10 +16,8 @@ void setup() {
 
   digitalWrite(pulseWritePin, LOW);
   digitalWrite(dataWritePin, LOW);
-
-  
-  
 }
+
 
 void loop() {
   if (Serial.available() > 0) {
