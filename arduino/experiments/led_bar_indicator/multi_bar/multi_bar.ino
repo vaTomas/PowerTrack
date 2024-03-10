@@ -1,3 +1,6 @@
+#include <avr/iom328p.h>
+
+
 const uint8_t barLevelPin = 9;
 const uint8_t selectorPins[3] = {13, 12, 8};
 // const uint8_t values[5] = {26, 51, 77, 110, 128};

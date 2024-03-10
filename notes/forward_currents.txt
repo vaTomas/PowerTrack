@@ -1,0 +1,7 @@
+SSR 6.54 mA @5V			x5	32.7 mA
+LCD 32.70 mA @5V
+
+Arduino Max IO 40.0 mA
+Arduino Max VCC 200.0 mA
+
+Entire power switching	29.97 mA	4.62 V	137.214 W
