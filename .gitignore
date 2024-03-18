@@ -32,3 +32,8 @@ Thumbs.db
 /build/
 /dist/
 /out/
+
+# Ignore Microsoft Office
+*.xlsx
+*.pptx
+*.docx
